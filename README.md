@@ -3,5 +3,4 @@
 
 
  ![image](https://github.com/zhwIdea/SliderProgress/blob/master/img1.gif)
- 
- ![image](https://github.com/zhwIdea/SliderProgress/blob/master/img2.gif)
+    ![image](https://github.com/zhwIdea/SliderProgress/blob/master/img2.gif)
